@@ -1,6 +1,8 @@
 # ninja-smoothies
 
 > A Vue.js project
+> This app enables you to add/order for your favourite smoothies. 
+Project is uploaded on firebase here: https://ninja-smoothies-ece87.firebaseapp.com/#/
 
 ## Build Setup
 
